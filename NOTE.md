@@ -397,6 +397,12 @@ Module build failed: TypeError: loaderContext.getResolve is not a function
 **卸载安装的高版本的less-loader，【npm uninstall less-loader】，安装指定低版本的less-loader【npm install less-loader@4.1.0 --save】
 ```
 
+* 3. Echarts图表
+
+* 4. 全国城市Cascader 级联选择器
+
+* 5. 左侧导航
+
 ## 如何导出项目目录结构
 
 * 1. 安装
