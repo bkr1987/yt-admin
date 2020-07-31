@@ -427,3 +427,7 @@ git push
 
 git push --set-upstream origin ntds
 ```
+
+## github上传报错
+
+[git push 报错：remote: Permission to XXXA/xxxx.git denied to XXXB](https://blog.csdn.net/hahahhahahahha123456/article/details/81104977)
